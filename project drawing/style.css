@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(50,180,255);
+}
+#svg{
+    width: 1000px;
+    height: 600px;
+    border: 10px solid black;
+    background-color: white;
+}
